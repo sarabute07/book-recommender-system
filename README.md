@@ -1,2 +1,10 @@
 # book-recommender-system
-A Book Recommendation System using Collaborative Filtering (Machine Learning Project)
+A Machine Learning project that recommends books to users using **Collaborative Filtering**.
+
+## 🚀 Features
+Data preprocessing & cleaning
+Collaborative filtering (user-user & item-item)
+Recommendation engine
+Web app using Streamlit
+
+
